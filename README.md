@@ -1,4 +1,4 @@
- # Metabase
+# Metabase
 
 Testing
 
